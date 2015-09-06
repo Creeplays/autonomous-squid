@@ -1,5 +1,7 @@
 node_modules
 server
+logs
+doc
 
 .cache/*
 .npm/*
@@ -7,3 +9,4 @@ server
 .bashrc
 .profile
 .bash_logout
+.gitignore
